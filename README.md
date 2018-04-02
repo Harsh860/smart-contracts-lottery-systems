@@ -21,6 +21,7 @@ Question Answer Site where users can write,ask,comment,upvote ,delete questions 
 
 ### OPENING APP ON WEB
 Then open [etherum_remix](http://remix.ethereum.org)
+#### Paste the code 
 #### Compile the code
 #### Select enviroment as javascript VM in run section
 #### create a user as owner after that add users
