@@ -1,6 +1,6 @@
 # LOTTERY SYSTEM
 
-Question Answer Site where users can write,ask,comment,upvote ,delete questions and answers
+Loteery system with ethereum
 
 
 ## FUNCTIONALITY PROVIDED
